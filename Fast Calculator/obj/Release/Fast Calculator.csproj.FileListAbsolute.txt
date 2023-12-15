@@ -1,0 +1,10 @@
+C:\Users\NattyXO\source\repos\Fast Calculator\Fast Calculator\bin\Release\Fast Calculator.exe.config
+C:\Users\NattyXO\source\repos\Fast Calculator\Fast Calculator\bin\Release\Fast Calculator.exe
+C:\Users\NattyXO\source\repos\Fast Calculator\Fast Calculator\bin\Release\Fast Calculator.pdb
+C:\Users\NattyXO\source\repos\Fast Calculator\Fast Calculator\obj\Release\Fast_Calculator.Form1.resources
+C:\Users\NattyXO\source\repos\Fast Calculator\Fast Calculator\obj\Release\Fast_Calculator.Loading.resources
+C:\Users\NattyXO\source\repos\Fast Calculator\Fast Calculator\obj\Release\Fast_Calculator.Properties.Resources.resources
+C:\Users\NattyXO\source\repos\Fast Calculator\Fast Calculator\obj\Release\Fast Calculator.csproj.GenerateResource.cache
+C:\Users\NattyXO\source\repos\Fast Calculator\Fast Calculator\obj\Release\Fast Calculator.csproj.CoreCompileInputs.cache
+C:\Users\NattyXO\source\repos\Fast Calculator\Fast Calculator\obj\Release\Fast Calculator.exe
+C:\Users\NattyXO\source\repos\Fast Calculator\Fast Calculator\obj\Release\Fast Calculator.pdb

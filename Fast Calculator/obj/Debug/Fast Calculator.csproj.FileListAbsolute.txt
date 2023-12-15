@@ -1,0 +1,11 @@
+C:\Users\NattyXO\source\repos\Fast Calculator\Fast Calculator\bin\Debug\Fast Calculator.exe.config
+C:\Users\NattyXO\source\repos\Fast Calculator\Fast Calculator\bin\Debug\Fast Calculator.exe
+C:\Users\NattyXO\source\repos\Fast Calculator\Fast Calculator\bin\Debug\Fast Calculator.pdb
+C:\Users\NattyXO\source\repos\Fast Calculator\Fast Calculator\obj\Debug\Fast Calculator.csproj.AssemblyReference.cache
+C:\Users\NattyXO\source\repos\Fast Calculator\Fast Calculator\obj\Debug\Fast_Calculator.Form1.resources
+C:\Users\NattyXO\source\repos\Fast Calculator\Fast Calculator\obj\Debug\Fast_Calculator.Properties.Resources.resources
+C:\Users\NattyXO\source\repos\Fast Calculator\Fast Calculator\obj\Debug\Fast Calculator.csproj.GenerateResource.cache
+C:\Users\NattyXO\source\repos\Fast Calculator\Fast Calculator\obj\Debug\Fast Calculator.csproj.CoreCompileInputs.cache
+C:\Users\NattyXO\source\repos\Fast Calculator\Fast Calculator\obj\Debug\Fast Calculator.exe
+C:\Users\NattyXO\source\repos\Fast Calculator\Fast Calculator\obj\Debug\Fast Calculator.pdb
+C:\Users\NattyXO\source\repos\Fast Calculator\Fast Calculator\obj\Debug\Fast_Calculator.Loading.resources
